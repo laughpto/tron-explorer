@@ -1,4 +1,0 @@
-flask<3
-python-dotenv
-requests
-tronpy
